@@ -12,6 +12,8 @@ List of sites compiled thus far:
 - Snapchat
 - Instagram
 
+---
+
 ### Facebook
 
 **How**
@@ -21,6 +23,8 @@ List of sites compiled thus far:
 **What**
 
 Facebook will let you select a date range, file format (`HTML` or `JSON`), and a media quality (high/medium/low). They also provide a list of categories of information such as your posts, photos and videos, comments, etc. from which you can select exactly what you want to download. It defaults to select all of your information.
+
+---
 
 ### Twitter
 
@@ -36,6 +40,8 @@ _At the time of writing this, there seems to be a bug within their settings
 that causes the download data link to not appear. I'll update with more
 information about what the archive looks like once I'm able to download it._
 
+---
+
 ### Spotify
 
 **How**
@@ -46,6 +52,8 @@ information about what the archive looks like once I'm able to download it._
 
 Spotify's [_Understanding my data_](https://support.spotify.com/us/account_payment_help/privacy/understanding-my-data/) article goes into detail about the data you receive. In summary, you'll get several `JSON` files that split your data into categories such as playlists, streaming history, search queries, and more.
 
+---
+
 ### Snapchat
 
 **How**
@@ -55,6 +63,8 @@ Spotify's [_Understanding my data_](https://support.spotify.com/us/account_payme
 **What**
 
 You'll get a `.zip` file of information such as login history, snap history, chat history, friends, and more.
+
+---
 
 ### Instagram
 
