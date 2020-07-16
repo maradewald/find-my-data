@@ -62,7 +62,7 @@ Spotify's [_Understanding my data_](https://support.spotify.com/us/account_payme
 
 **What**
 
-You'll get a `.zip` file of information such as login history, snap history, chat history, friends, and more.
+You'll get a `.zip` file with both `HTML` and `JSON` file formats for information such as login history, snap history, chat history, friends, and more.
 
 ---
 
@@ -73,4 +73,5 @@ You'll get a `.zip` file of information such as login history, snap history, cha
 [_How do I access or review my data on Instagram?_](https://help.instagram.com/181231772500920) (Help Center article)
 
 **What**
+
 You'll get a `JSON` file of everything you've shared on Instagram.
